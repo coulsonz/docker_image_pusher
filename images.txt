@@ -1,5 +1,5 @@
 #nginx
 #支持私库-1
-dbgate/dbgate-premium:latest
+dbgate/dbgate:6.0.0
 #支持指定架构
 #--platform=linux/arm64 halo/halo:2.20
